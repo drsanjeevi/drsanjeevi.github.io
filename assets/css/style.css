@@ -1433,7 +1433,7 @@ a, a:hover {
   position: absolute;
   top: 0;
   width: 100%;
-  background-color: white;border:1px solid #EB3656;
+  background-color:#f2f2f2;border:1px solid #EB3656;
   opacity: 0;
   -webkit-transform: translateY(0) translateX(calc(-100% - 1rem)) scale(1);
           transform: translateY(0) translateX(calc(-100% - 1rem)) scale(1);
